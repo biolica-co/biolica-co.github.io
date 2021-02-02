@@ -9364,8 +9364,8 @@ width:100%
 
 {
 
-width:auto
-
+width:auto;
+max-width: 300px;
 }
 
 .image-with-text__content
